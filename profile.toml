@@ -1,8 +1,0 @@
-[dotfiles]
-root = "$HOME/.dotfiles"
-
-[dotfiles.links]
-helix = "$HOME/.config/helix"
-alacritty = "$HOME/.config/alacritty"
-fuzzel = "$HOME/.config/fuzzel"
-umbriel = "$HOME/.config/umbriel"
